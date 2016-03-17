@@ -18,7 +18,7 @@
  
  <img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3321sZLoP_HYkp0Z1g0dHJXQ3c/components_bottomnavigation_usage4.png" width="360" height="300" />
  
- （2）如果标签很多，比如有超过了5个这种情况呢？google也是不提倡使用Bottom navigation的，可以用Drawer navigation替换。
+ （2）如果标签很多，比如有超过了5个这种情况呢？Google也是不提倡使用Bottom navigation的，可以用Drawer navigation替换。
  
  正确方式：
  
@@ -29,6 +29,30 @@
  
   <img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3321sZLoP_HbjhLajFZd0JZbmM/components_bottomnavigation_usage6.png" width="360" height="300" />
   
+###风格样式
+（1）标签Icons和文字的颜色选择是很重要的，一亮一暗才能有对比，用户才很快知道你选择了哪个，如果五颜六色，你是很难分清选择了哪个的。
+
+正确方式：
+
+ <img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3321sZLoP_HSGh1M0QzNVJvVnM/components_bottomnavigation_style5.png" width="360" height="300" />
+ 
+ 错误方式：
+ 
+ 
+  
+（2）标签的文字说明要简短而有意义，避免太长的，也不提倡太长了换行和省略的方式
+
+正确方式：
+
+ <img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3321sZLoP_HUy13a2EtMnVFN1E/components_bottomnavigation_style1.png" width="360" height="300" />
+ 
+错误方式：
+ 
+  <img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3321sZLoP_HTmdoVlhRUlpBTFU/components_bottomnavigation_style2.png" width="360" height="300" />
+   <img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3321sZLoP_HQllNTmFqX1czY2s/components_bottomnavigation_style3.png" width="360" height="300" />
+    <img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3321sZLoP_HNWZBUGhvWVpmS2M/components_bottomnavigation_style4.png" width="360" height="300" />
+
+
   
   
   
