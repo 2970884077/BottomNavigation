@@ -85,6 +85,16 @@
 
 ![](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3321sZLoP_HcV9maGFKNVN1STQ/components_bottomnavigation_spec_fixed1.png)
 
+效果如下：
+
+![](http://ww3.sinaimg.cn/mw690/7ef01fcajw1f1zxp58q1pg209w08kwfo.gif)
+
+对手机来说已经足够了，如果你想了解更多，可以去官网看看更多详情：https://www.google.com/design/spec/components/bottom-navigation.html#bottom-navigation-specs
+
+
+
+
+
 
 
 
