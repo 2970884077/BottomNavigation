@@ -7,7 +7,7 @@
 ###简单介绍
 底部导航栏（Bottom navigation）这种设计在很多 Android App 中都是随处可见的，如支付宝、微信、QQ等都使用了，它让视图的切换变得很简单。
 
-###如何使用<font color="#0000FF">我的颜色为蓝色#0000FF</font>
+###如何使用
 （1）底部导航栏需要有3-5个标签（tab）,并且每个tab选择的视图重要性要相似，对于少于3个tab的情况，是不推荐使用Bottom navigation的。
 
 正确方式：
@@ -38,6 +38,8 @@
  
  错误方式：
  
+  <img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3321sZLoP_HdF81WTZGYXNFQXc/components_bottomnavigation_style6.png" width="360" height="300" />
+ 
  
   
 （2）标签的文字说明要简短而有意义，避免太长的，也不提倡太长了换行和省略的方式
@@ -51,6 +53,16 @@
   <img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3321sZLoP_HTmdoVlhRUlpBTFU/components_bottomnavigation_style2.png" width="360" height="300" />
    <img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3321sZLoP_HQllNTmFqX1czY2s/components_bottomnavigation_style3.png" width="360" height="300" />
     <img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3321sZLoP_HNWZBUGhvWVpmS2M/components_bottomnavigation_style4.png" width="360" height="300" />
+    
+###行为交互
+（1）用户上拉列表时，隐藏Bottom navigation，下拉列表时，显示Bottom navigation
+
+![](http://ww4.sinaimg.cn/mw690/7ef01fcajw1f1zw7j8vbyg209w0hmu0y.gif)
+
+(2)点击Bottom navigation Icon 的时候，不能打开菜单选择或者其他弹窗操作
+
+
+
 
 
   
