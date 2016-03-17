@@ -9,10 +9,13 @@
 
 ###如何使用
 （1）底部导航栏需要有3-5个标签（tab）,并且每个tab选择的视图重要性要相似，对于少于3个tab的情况，是不推荐使用Bottom navigation的。
-正确方式
+
+正确方式：
+
  <img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3321sZLoP_HajN5eDd2UUtGT00/components_bottomnavigation_usage3.png" width="360" height="300" />
  
- 错误方式
+ 错误方式：
+ 
  <img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3321sZLoP_HYkp0Z1g0dHJXQ3c/components_bottomnavigation_usage4.png" width="360" height="300" />
 
 
