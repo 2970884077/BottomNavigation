@@ -120,7 +120,17 @@ You should follow this guideline to create a consistent experience with other ap
 
 原谅我欣赏不了这种美。
 
-####总结：被坑的最惨的是Android程序员！
+####总结：被坑的最惨的还是Android程序员！
+
+
+###关于我：
+
+Github：[Android-CJJ](https://github.com/android-cjj)------能 follow 下我就更好了
+
+微博：[Android_CJJ](http://weibo.com/chenjijun2011/)-------能 关注 下我就更好了
+
+
+
 
 
 
