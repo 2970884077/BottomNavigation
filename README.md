@@ -54,21 +54,39 @@
    <img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3321sZLoP_HQllNTmFqX1czY2s/components_bottomnavigation_style3.png" width="360" height="300" />
     <img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3321sZLoP_HNWZBUGhvWVpmS2M/components_bottomnavigation_style4.png" width="360" height="300" />
     
+
+####注意：
+* 1. 选中的标签要展示高亮图标和文字
+* 2. 如果是3个标签的时候，要展示Bottom navigation bar中所有的图标和文字
+* 3. 如果是多余三个标签的情况，没选中的tab只需要展示图标就可以，不用文字说明
+
+    
 ###行为交互
 （1）用户上拉列表时，隐藏Bottom navigation，下拉列表时，显示Bottom navigation
 
 ![](http://ww4.sinaimg.cn/mw690/7ef01fcajw1f1zw7j8vbyg209w0hmu0y.gif)
 
-(2)点击Bottom navigation Icon 的时候，不能打开菜单选择或者其他弹窗操作
+(2)点击Bottom navigation Icon 的时候，不能打开菜单选择或者其他弹窗操作，而只是刷新当前视图的内容，如下图：
+
+![](http://ww3.sinaimg.cn/mw690/7ef01fcajw1f1zwkyevefg209w0hm4gx.gif)
+
+(3)不推荐使用手势在视图内容区域切换视图
+
+正确方式：
+
+![](http://ww4.sinaimg.cn/mw690/7ef01fcagw1f1zwwyi12mg209y0hmx5p.gif)
+
+错误方式：
+
+![](http://ww1.sinaimg.cn/mw690/7ef01fcagw1f1zwz18jkkg209y0hmx6p.gif)
+
+###尺寸设计
+（1）Bottom navigation对于尺寸的要求还是挺严格的，标签选中和没选中都有细微的差别。
+
+![](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3321sZLoP_HcV9maGFKNVN1STQ/components_bottomnavigation_spec_fixed1.png)
 
 
 
-
-
-  
-  
-  
- 
 
 
 
