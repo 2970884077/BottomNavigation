@@ -7,7 +7,7 @@
  ![](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3321sZLoP_HUW9qLXpZTDhhS1U/components_bottomnavigation_spec_elevation3.png)
  
 ###简单介绍
-底部导航栏（Bottom navigation）这种设计在很多 Android App 中都是随处可见的，如支付宝、微信、QQ等都使用了，它让视图的切换变得很简单。
+底部导航栏（Bottom navigation）这种设计在很多 Android App 中都是随处可见的，如支付宝、微信、QQ等都使用了，它允许用户可以在多个顶级视图之间快速切换。
 
 ###如何使用
 （1）底部导航栏需要有3-5个标签（tab）,并且每个tab选择的视图重要性要相似，对于少于3个tab的情况，是不推荐使用Bottom navigation的。
@@ -105,7 +105,25 @@ You should follow this guideline to create a consistent experience with other ap
 
 ![](https://pic3.zhimg.com/01e0c2e21118df79507b4797bda71dee_b.png)
 
-虽然我英语烂，但也不至于看不懂什么意思吧。
+虽然我英语烂，但也不至于看不懂什么意思吧，之前说好的Meterial Design 规范说变就变，自己都不遵守，有何规范可言。
+
+然而，我是理智的，Google + 和 Google Photos 都加入了底部导航栏（Bottom navigation），打脸归打脸，决定这一因素的还是用户。
+
+我们说说Drawer navigation，不要觉得疑惑，关Drawer什么事？没错，就是和它有关，认真想想，使用Drawer切换视图时，使用方式是点击按钮或者手势滑动打开，然后才选择跳转的Item，虽然节省了手机视图空间，但是操作较不方便以致使用率低，从而降低其他页面的跳转率这个缺点是不能忽视的。
+所以说，相对于Drawer navigation,Bottom navigation就有优势了。
+
+然后，对于我们开发来说，又是一大难点了
+
+比如FB、SnackBar等显示的方式，个人觉得都可以不需要FB了，至于SnackBar，看下图：
+
+![](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3321sZLoP_HQTdycnRmdXlFbEk/components_bottomnavigation_spec_elevation1.png)
+
+原谅我欣赏不了这种美。
+
+####总结：被坑的最惨的是Android程序员！
+
+
+
 
 
 
