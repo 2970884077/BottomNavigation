@@ -17,6 +17,22 @@
  错误方式：
  
  <img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3321sZLoP_HYkp0Z1g0dHJXQ3c/components_bottomnavigation_usage4.png" width="360" height="300" />
+ 
+ （2）如果标签很多，比如有超过了5个这种情况呢？google也是不提倡使用Bottom navigation的，可以用Drawer navigation替换。
+ 
+ 正确方式：
+ 
+ 
+ <img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3321sZLoP_HZHA1UVAyRFpMVDQ/components_bottomnavigation_usage5.png" width="360" height="300" />
+ 
+  错误方式：
+ 
+  <img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3321sZLoP_HbjhLajFZd0JZbmM/components_bottomnavigation_usage6.png" width="360" height="300" />
+  
+  
+  
+  
+ 
 
 
 
