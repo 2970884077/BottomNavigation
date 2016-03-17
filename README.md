@@ -4,6 +4,8 @@
 最近 Google 在Material Design设计规范中加入底部导航栏（Bottom navigation）设计,对此，我会在文末给出个人看法！现在我们先来学习Bottom navigation
  在设计、使用、交互、风格、尺寸的一些规范。水平有限，如理解有误，请多多吐槽。
  
+ ![](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3321sZLoP_HUW9qLXpZTDhhS1U/components_bottomnavigation_spec_elevation3.png)
+ 
 ###简单介绍
 底部导航栏（Bottom navigation）这种设计在很多 Android App 中都是随处可见的，如支付宝、微信、QQ等都使用了，它让视图的切换变得很简单。
 
@@ -89,7 +91,27 @@
 
 ![](http://ww3.sinaimg.cn/mw690/7ef01fcajw1f1zxp58q1pg209w08kwfo.gif)
 
-对手机来说已经足够了，如果你想了解更多，可以去官网看看更多详情：https://www.google.com/design/spec/components/bottom-navigation.html#bottom-navigation-specs
+对手机app来说已经足够了，如果你想了解更多，可以去官网看看更多详情：https://www.google.com/design/spec/components/bottom-navigation.html#bottom-navigation-specs
+
+
+###杂谈
+Android官网中有这么一句话：
+
+[Don't use bottom tab bars](http://developer.android.com/design/patterns/pure-android.html)
+
+Other platforms use the bottom tab bar to switch between the app's views. Per platform convention, Android's tabs for view control are shown in action bars at the top of the screen instead. In addition, Android apps may use a bottom bar to display actions on a split action bar.
+
+You should follow this guideline to create a consistent experience with other apps on the Android platform and to avoid confusion between actions and view switching on Android.
+
+![](https://pic3.zhimg.com/01e0c2e21118df79507b4797bda71dee_b.png)
+
+虽然我英语烂，但也不至于看不懂什么意思吧。
+
+
+
+
+
+
 
 
 
